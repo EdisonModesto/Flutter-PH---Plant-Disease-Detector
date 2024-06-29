@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBrhPY4idhokxneX3UBprxbFN3sbnVYqUE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>813487675670</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.devtastic.plantDiseaseDetector</string>
+	<key>PROJECT_ID</key>
+	<string>plant-disease-detector-ef746</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plant-disease-detector-ef746.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:813487675670:ios:1654c505f838a0150b9837</string>
+</dict>
+</plist>
